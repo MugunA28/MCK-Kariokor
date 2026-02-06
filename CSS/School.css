@@ -436,6 +436,12 @@ footer {
         height: 400px;
     }
 
+    .carousel-img {
+        height: auto;
+        max-height: 60vh;
+        object-fit: contain;
+    }
+
     .junior-carousel-media {
         height: 400px;
     }
